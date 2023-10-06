@@ -1,1 +1,1 @@
-# Clothes-Recommendation-System
+# Ecommerce-Recommendation-System
